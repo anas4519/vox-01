@@ -65,8 +65,8 @@ VOX-01 is a Flutter-based mobile application that records voice input, transcrib
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/VOX-01.git
-   cd VOX-01
+   git clone https://github.com/anas4519/vox-01.git
+   cd vox-01
    ```
 
 2. **Install dependencies**
